@@ -1,0 +1,182 @@
+﻿  Main.cpp
+  Tree.cpp
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(11,18): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(11,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(11,29): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(12,18): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(12,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(12,30): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(16,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(16,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(16,25): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(20,21): error C2061: синтаксическая ошибка: идентификатор "uniqueptr"
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(13,33): error C2614: Tree::Node: недопустимая инициализация члена: "left" не является базовым классом или членом
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(13,48): error C2614: Tree::Node: недопустимая инициализация члена: "right" не является базовым классом или членом
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(23,14): error C2614: Tree: недопустимая инициализация члена: "root" не является базовым классом или членом
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Main.cpp(7,16): error C2440: инициализация: невозможно преобразовать "initializer list" в "int"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Main.cpp(7,16):
+      Инициализатор содержит слишком много элементов
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(11,18): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(11,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(11,29): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(12,18): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(12,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(12,30): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(16,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(16,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(16,25): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(20,21): error C2061: синтаксическая ошибка: идентификатор "uniqueptr"
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(13,33): error C2614: Tree::Node: недопустимая инициализация члена: "left" не является базовым классом или членом
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(13,48): error C2614: Tree::Node: недопустимая инициализация члена: "right" не является базовым классом или членом
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(23,14): error C2614: Tree: недопустимая инициализация члена: "root" не является базовым классом или членом
+  (компиляция исходного файла "Tree.cpp")
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(4,12): error C2511: void Tree::insertNode(std::unique_ptr<Tree::Node,std::default_delete<Tree::Node>> &,int): перегруженная функция-член не найдена в "Tree"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(7,7):
+       см. объявление "Tree"
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(10,26): error C2039: "left": не является членом "Tree::Node".
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(9,12):
+       см. объявление "Tree::Node"
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(10,9): error C2660: Tree::insertNode: функция не принимает 2 аргументов
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(20,10):
+       см. объявление "Tree::insertNode"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(10,9):
+      при попытке сопоставить список аргументов "()"
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(12,26): error C2039: "right": не является членом "Tree::Node".
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(9,12):
+       см. объявление "Tree::Node"
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(12,9): error C2660: Tree::insertNode: функция не принимает 2 аргументов
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(20,10):
+       см. объявление "Tree::insertNode"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(12,9):
+      при попытке сопоставить список аргументов "()"
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(17,16): error C2065: arri: необъявленный идентификатор
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(21,16): error C2065: root: необъявленный идентификатор
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(24,12): error C2511: void Tree::printSideways(const Tree::Node,int) const: перегруженная функция-член не найдена в "Tree"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(7,7):
+       см. объявление "Tree"
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(25,10): error C2678: бинарный "!": не найден оператор, принимающий левый операнд типа "const Tree::Node" (или приемлемое преобразование отсутствует)
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(25,10):
+      может быть "встроенный оператор C++ !(bool)"
+          C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(25,10):
+          "!": невозможно преобразовать аргумент 1 из "const Tree::Node" в "bool"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(25,10):
+      при попытке сопоставить список аргументов "(const Tree::Node)"
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(25,9): error C2088: встроенный оператор "!" не может быть применен к операнду типа "const Tree::Node"
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(26,19): error C2819: тип "Tree::Node" не имеет перегруженный "operator ->"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(9,12):
+       см. объявление "Tree::Node"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(26,19):
+      возможно, имеется в виду "."
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(26,25): error C2039: "right": не является членом "Tree::Node".
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(9,12):
+       см. объявление "Tree::Node"
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(28,13): error C2819: тип "Tree::Node" не имеет перегруженный "operator ->"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(9,12):
+       см. объявление "Tree::Node"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(28,13):
+      возможно, имеется в виду "."
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(28,17): error C2232: ->Tree::Node::value: левый операнд имеет тип "struct", используйте "."
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(29,19): error C2819: тип "Tree::Node" не имеет перегруженный "operator ->"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(9,12):
+       см. объявление "Tree::Node"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(29,19):
+      возможно, имеется в виду "."
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(29,25): error C2039: "left": не является членом "Tree::Node".
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(9,12):
+       см. объявление "Tree::Node"
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(33,19): error C2065: root: необъявленный идентификатор
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(37,10): error C2065: root: необъявленный идентификатор
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(38,26): error C2065: root: необъявленный идентификатор
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(38,16): error C2737: "current": необходимо инициализировать объект const
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(39,12): error C2819: тип "Tree::Node" не имеет перегруженный "operator ->"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(9,12):
+       см. объявление "Tree::Node"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(39,12):
+      возможно, имеется в виду "."
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(39,21): error C2039: "right": не является членом "Tree::Node".
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(9,12):
+       см. объявление "Tree::Node"
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(40,19): error C2819: тип "Tree::Node" не имеет перегруженный "operator ->"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(9,12):
+       см. объявление "Tree::Node"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(40,19):
+      возможно, имеется в виду "."
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(40,28): error C2039: "right": не является членом "Tree::Node".
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(9,12):
+       см. объявление "Tree::Node"
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(41,12): error C2819: тип "Tree::Node" не имеет перегруженный "operator ->"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.h(9,12):
+       см. объявление "Tree::Node"
+      C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(41,12):
+      возможно, имеется в виду "."
+  
+C:\Users\tujgi\source\repos\21 lab\21 lab\Tree.cpp(41,19): error C2232: ->Tree::Node::value: левый операнд имеет тип "struct", используйте "."
+  Создание кода...
