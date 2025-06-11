@@ -1,0 +1,6 @@
+﻿  Code.cpp
+C:\Users\tujgi\source\repos\24-1\24-1\Code.cpp(11,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\tujgi\source\repos\24-1\24-1\Code.cpp(28,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\tujgi\source\repos\24-1\24-1\Code.cpp(51,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\tujgi\source\repos\24-1\24-1\Code.cpp(135,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  24-1.vcxproj -> C:\Users\tujgi\source\repos\24-1\x64\Debug\24-1.exe
