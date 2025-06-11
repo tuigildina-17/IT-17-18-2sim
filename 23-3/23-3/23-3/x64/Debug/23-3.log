@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Tree.cpp
+C:\Users\tujgi\source\repos\23-3\23-3\Tree.cpp(138,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  23-3.vcxproj -> C:\Users\tujgi\source\repos\23-3\23-3\x64\Debug\23-3.exe
